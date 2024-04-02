@@ -23,9 +23,8 @@
  
 </div>
   
-- 🔭 Atualmente estou trabalhando em uma interface gráfica com java que utiliza banco de dados
-- 🌱 Estou aprendendo Java, WebDev e Banco de dados 
-- 📫 Como me contactar: Clica no botão ai em cima 👆
+- 🔭 Bem vindo ao meu perfil onde armazeno trabalhos universitários e projetos pessoais
+- 🌱 Estou aprendendo Typescript, Frameworks e Banco de dados NoSql
+-  📫 Como me contactar: Clica no botão ai em cima 👆
 - 😄 Pronomes: ele/dele
-- ⚡ Fun fact: Adoro programar como eu amo pizzas. **EU AMO** pizzas.
 
