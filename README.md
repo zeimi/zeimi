@@ -23,7 +23,7 @@
  
 </div>
   
-- 🔭 Bem vindo ao meu perfil onde armazeno trabalhos universitários e projetos pessoais
+- 🔭 Bem vindo ao meu perfil onde armazeno trabalhos universitários e projetos pessoais.
 - 🌱 Estou aprendendo Typescript, Frameworks e Banco de dados NoSql
 -  📫 Como me contactar: Clica no botão ai em cima 👆
 - 😄 Pronomes: ele/dele
